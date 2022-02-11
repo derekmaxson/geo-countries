@@ -1,0 +1,19 @@
+{
+	"type": "Feature",
+	"id": "de1",
+	"active":true,
+	"properties": {
+		"name": "DE1-Special Custom"
+	},
+	"geometry": {
+		"type": "Polygon",
+		"coordinates": [
+			[
+				[11.741889,48.363778],
+				[11.841194,48.375806],
+				[11.830722,48.345111],
+				[11.730139,48.333778]
+			]
+		]
+	}
+}
